@@ -392,6 +392,7 @@ See [doc/DEVELOPING.md](doc/DEVELOPING.md) for the full development guide.
 - ⚪ CEO Chat
 - ⚪ Cloud deployments
 - ⚪ Desktop App
+- <!-- Railway deployment -->
 
 This is the short roadmap preview. See the full roadmap in [ROADMAP.md](ROADMAP.md).
 
